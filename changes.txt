@@ -1,0 +1,8 @@
+2.0.0
+i'm considering the website in it's current state version 2.0.0. This repository will be the main home for sweetfighter.net, it will house all major and minor updates to the site.
+I'll try and do change logs frequently. Relatively new to git so going to try and start fresh with this.
+
+- deleted guestbook page, replaced with new sitemap page
+- made title gif one size before and after entering, removed msg board at start for now
+- modified message board, added pin
+- more hover buttons
