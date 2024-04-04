@@ -1,5 +1,2 @@
-2.0.2
-E-Store Grand Opening
-
--Updated merch page
--E-store now linked on main page
+2.0.1
+- Added Sitemap functionality (clickable links)
