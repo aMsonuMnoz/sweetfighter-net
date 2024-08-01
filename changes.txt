@@ -1,2 +1,10 @@
-2.0.3
-- Added Sitemap functionality (clickable links)
+2.0.6 Minor Content Updates + Fixes
+
+- marquee changes
+- message content changes
+- fixed trophy.webp
+- finished video channel
+- added changelog page
+- removed store link
+
+8/1/2024
